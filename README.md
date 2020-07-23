@@ -40,7 +40,7 @@
 
 ## About The Project
 
-An endless game of feed the snake where the player controls the snake head and direct it the food. Once the snake feeds it grows in body length. The snake is in constant movement and is able to disappear on one side and appear on the opposite side. The food also appear randomly on the platform. The rule are to make sure that the snake head does not collide with the body which will result to a game over scenerio.
+An endless game of feed the snake where the player controls the snakehead and direct it the food. Once the snake feeds it grows in body length. The snake is in constant movement and is able to disappear on one side and appear on the opposite side. The food also appears randomly on the platform. The rule is to make sure that the snakehead does not collide with the body which will result in a game over scenario.
 
 ### Built With
 
@@ -70,9 +70,9 @@ This project was Phaser-3.js, a 2D game framework for making HTML5 games for des
 
 ### How To Play
 
-- Left arrow moves the snake to the left.
+- The left arrow moves the snake to the left.
 
-- Right arrow moves the snake to the right.
+- The right arrow moves the snake to the right.
 
 - Down arrow moves the snake to the down.
 
@@ -98,7 +98,7 @@ Copy the following instructions sequentially into your terminal
 
 - Run `npm install`
 
-- Run `npm run test`to run the test suites
+- Run `npm run test` to run the test suites
 
 ## Live Version
 
